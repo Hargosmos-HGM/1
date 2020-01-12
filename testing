@@ -1,0 +1,14 @@
+<link href="https://fonts.googleapis.com/css?family=Arimo&display=swap" rel="stylesheet">
+<div class="cont">
+<div class="vertical-navbar">
+<h1 id="name-title">Hargosomos</h1>
+	<p><a href="#">Software Archive</a></p>
+	<p><a href="#">YouTube Channel</a></p>
+	</div>
+<div class="container-site">
+	<div id="msg-box">
+	<h1 id="welcome-msg"><strong>Welcome</strong> to my site</h1>
+	<h4>My name is Hargosmos and this is my site</h4>
+		</div>
+	</div>
+	</div>
